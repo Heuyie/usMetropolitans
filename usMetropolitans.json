@@ -1,0 +1,4499 @@
+{
+  "Abilene": {
+    "allCities": [
+      "Abilene"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Abilene, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Akron": {
+    "allCities": [
+      "Akron"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Akron, OH Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OH"
+  }, 
+  "Albany": {
+    "allCities": [
+      "Albany"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "-73.757222", 
+    "longName": "Albany, OR Metropolitan Statistical Area", 
+    "longitude": "42.6525", 
+    "primaryState": "OR"
+  }, 
+  "Albuquerque": {
+    "allCities": [
+      "Albuquerque"
+    ], 
+    "allStates": [
+      "NM"
+    ], 
+    "latitude": "-106.609991", 
+    "longName": "Albuquerque, NM Metropolitan Statistical Area", 
+    "longitude": "35.110703", 
+    "primaryState": "NM"
+  }, 
+  "Alexandria": {
+    "allCities": [
+      "Alexandria"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Alexandria, LA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "LA"
+  }, 
+  "Allentown": {
+    "allCities": [
+      "Allentown", 
+      "Bethlehem", 
+      "Easton"
+    ], 
+    "allStates": [
+      "PA", 
+      "NJ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Altoona": {
+    "allCities": [
+      "Altoona"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Altoona, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Amarillo": {
+    "allCities": [
+      "Amarillo"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Amarillo, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Ames": {
+    "allCities": [
+      "Ames"
+    ], 
+    "allStates": [
+      "IA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Ames, IA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Anchorage": {
+    "allCities": [
+      "Anchorage"
+    ], 
+    "allStates": [
+      "AK"
+    ], 
+    "latitude": "-149.894793", 
+    "longName": "Anchorage, AK Metropolitan Statistical Area", 
+    "longitude": "61.216330", 
+    "primaryState": "AK"
+  }, 
+  "Ann Arbor": {
+    "allCities": [
+      "Ann Arbor"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Ann Arbor, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Anniston": {
+    "allCities": [
+      "Anniston", 
+      "Oxford", 
+      "Jacksonville"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Anniston-Oxford-Jacksonville, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Appleton": {
+    "allCities": [
+      "Appleton"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Appleton, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Asheville": {
+    "allCities": [
+      "Asheville"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Asheville, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "Athens": {
+    "allCities": [
+      "Athens", 
+      "Clarke County"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Athens-Clarke County, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Atlanta": {
+    "allCities": [
+      "Atlanta", 
+      "Sandy Springs", 
+      "Roswell"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "-84.39", 
+    "longName": "Atlanta-Sandy Springs-Roswell, GA Metropolitan Statistical Area", 
+    "longitude": "33.755", 
+    "primaryState": "GA"
+  }, 
+  "Atlantic City": {
+    "allCities": [
+      "Atlantic City", 
+      "Hammonton"
+    ], 
+    "allStates": [
+      "NJ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Atlantic City-Hammonton, NJ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NJ"
+  }, 
+  "Auburn": {
+    "allCities": [
+      "Auburn", 
+      "Opelika"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Auburn-Opelika, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Augusta": {
+    "allCities": [
+      "Augusta", 
+      "Richmond County"
+    ], 
+    "allStates": [
+      "GA", 
+      "SC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Augusta-Richmond County, GA-SC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Austin": {
+    "allCities": [
+      "Austin", 
+      "Round Rock"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "-97.740344", 
+    "longName": "Austin-Round Rock, TX Metropolitan Statistical Area", 
+    "longitude": "30.274653", 
+    "primaryState": "TX"
+  }, 
+  "Bakersfield": {
+    "allCities": [
+      "Bakersfield"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "-119.019664", 
+    "longName": "Bakersfield, CA Metropolitan Statistical Area", 
+    "longitude": "35.372489", 
+    "primaryState": "CA"
+  }, 
+  "Baltimore": {
+    "allCities": [
+      "Baltimore", 
+      "Columbia", 
+      "Towson"
+    ], 
+    "allStates": [
+      "MD"
+    ], 
+    "latitude": "-76.610735", 
+    "longName": "Baltimore-Columbia-Towson, MD Metropolitan Statistical Area", 
+    "longitude": "39.290885", 
+    "primaryState": "MD"
+  }, 
+  "Bangor": {
+    "allCities": [
+      "Bangor"
+    ], 
+    "allStates": [
+      "ME"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bangor, ME Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ME"
+  }, 
+  "Barnstable Town": {
+    "allCities": [
+      "Barnstable Town"
+    ], 
+    "allStates": [
+      "MA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Barnstable Town, MA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MA"
+  }, 
+  "Baton Rouge": {
+    "allCities": [
+      "Baton Rouge"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "-91.187829", 
+    "longName": "Baton Rouge, LA Metropolitan Statistical Area", 
+    "longitude": "30.445960", 
+    "primaryState": "LA"
+  }, 
+  "Battle Creek": {
+    "allCities": [
+      "Battle Creek"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Battle Creek, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Bay City": {
+    "allCities": [
+      "Bay City"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bay City, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Beaumont": {
+    "allCities": [
+      "Beaumont", 
+      "Port Arthur"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Beaumont-Port Arthur, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Beckley": {
+    "allCities": [
+      "Beckley"
+    ], 
+    "allStates": [
+      "WV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Beckley, WV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WV"
+  }, 
+  "Bellingham": {
+    "allCities": [
+      "Bellingham"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bellingham, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Bend": {
+    "allCities": [
+      "Bend", 
+      "Redmond"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bend-Redmond, OR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OR"
+  }, 
+  "Billings": {
+    "allCities": [
+      "Billings"
+    ], 
+    "allStates": [
+      "MT"
+    ], 
+    "latitude": "-108.505959", 
+    "longName": "Billings, MT Metropolitan Statistical Area", 
+    "longitude": "45.783682", 
+    "primaryState": "MT"
+  }, 
+  "Binghamton": {
+    "allCities": [
+      "Binghamton"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Binghamton, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Birmingham": {
+    "allCities": [
+      "Birmingham", 
+      "Hoover"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "-86.810920", 
+    "longName": "Birmingham-Hoover, AL Metropolitan Statistical Area", 
+    "longitude": "33.520183", 
+    "primaryState": "AL"
+  }, 
+  "Bismarck": {
+    "allCities": [
+      "Bismarck"
+    ], 
+    "allStates": [
+      "ND"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bismarck, ND Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ND"
+  }, 
+  "Blacksburg": {
+    "allCities": [
+      "Blacksburg", 
+      "Christiansburg", 
+      "Radford"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Bloomington": {
+    "allCities": [
+      "Bloomington"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bloomington, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Bloomsburg": {
+    "allCities": [
+      "Bloomsburg", 
+      "Berwick"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bloomsburg-Berwick, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Boise City": {
+    "allCities": [
+      "Boise City"
+    ], 
+    "allStates": [
+      "ID"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Boise City, ID Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ID"
+  }, 
+  "Boston": {
+    "allCities": [
+      "Boston", 
+      "Cambridge", 
+      "Newton"
+    ], 
+    "allStates": [
+      "MA", 
+      "NH"
+    ], 
+    "latitude": "-71.06369", 
+    "longName": "Boston-Cambridge-Newton, MA-NH Metropolitan Statistical Area", 
+    "longitude": "42.35817", 
+    "primaryState": "MA"
+  }, 
+  "Boulder": {
+    "allCities": [
+      "Boulder"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Boulder, CO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CO"
+  }, 
+  "Bowling Green": {
+    "allCities": [
+      "Bowling Green"
+    ], 
+    "allStates": [
+      "KY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bowling Green, KY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KY"
+  }, 
+  "Bremerton": {
+    "allCities": [
+      "Bremerton", 
+      "Silverdale"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bremerton-Silverdale, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Bridgeport": {
+    "allCities": [
+      "Bridgeport", 
+      "Stamford", 
+      "Norwalk"
+    ], 
+    "allStates": [
+      "CT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CT"
+  }, 
+  "Brownsville": {
+    "allCities": [
+      "Brownsville", 
+      "Harlingen"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Brownsville-Harlingen, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Brunswick": {
+    "allCities": [
+      "Brunswick"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Brunswick, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Buffalo": {
+    "allCities": [
+      "Buffalo", 
+      "Cheektowaga", 
+      "Niagara Falls"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "-78.879139", 
+    "longName": "Buffalo-Cheektowaga-Niagara Falls, NY Metropolitan Statistical Area", 
+    "longitude": "42.886596", 
+    "primaryState": "NY"
+  }, 
+  "Burlington": {
+    "allCities": [
+      "Burlington"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "-73.211944", 
+    "longName": "Burlington, NC Metropolitan Statistical Area", 
+    "longitude": "44.475833", 
+    "primaryState": "NC"
+  }, 
+  "California": {
+    "allCities": [
+      "California", 
+      "Lexington Park"
+    ], 
+    "allStates": [
+      "MD"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "California-Lexington Park, MD Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MD"
+  }, 
+  "Canton": {
+    "allCities": [
+      "Canton", 
+      "Massillon"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Canton-Massillon, OH Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OH"
+  }, 
+  "Cape Coral": {
+    "allCities": [
+      "Cape Coral", 
+      "Fort Myers"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "-81.958422", 
+    "longName": "Cape Coral-Fort Myers, FL Metropolitan Statistical Area", 
+    "longitude": "26.632683", 
+    "primaryState": "FL"
+  }, 
+  "Cape Girardeau": {
+    "allCities": [
+      "Cape Girardeau"
+    ], 
+    "allStates": [
+      "MO", 
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Cape Girardeau, MO-IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MO"
+  }, 
+  "Carbondale": {
+    "allCities": [
+      "Carbondale", 
+      "Marion"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Carbondale-Marion, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Carson City": {
+    "allCities": [
+      "Carson City"
+    ], 
+    "allStates": [
+      "NV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Carson City, NV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NV"
+  }, 
+  "Casper": {
+    "allCities": [
+      "Casper"
+    ], 
+    "allStates": [
+      "WY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Casper, WY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WY"
+  }, 
+  "Cedar Rapids": {
+    "allCities": [
+      "Cedar Rapids"
+    ], 
+    "allStates": [
+      "IA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Cedar Rapids, IA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Chambersburg": {
+    "allCities": [
+      "Chambersburg", 
+      "Waynesboro"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Chambersburg-Waynesboro, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Champaign": {
+    "allCities": [
+      "Champaign", 
+      "Urbana"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Champaign-Urbana, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Charleston": {
+    "allCities": [
+      "Charleston"
+    ], 
+    "allStates": [
+      "WV"
+    ], 
+    "latitude": "-79.930816", 
+    "longName": "Charleston, WV Metropolitan Statistical Area", 
+    "longitude": "32.776718", 
+    "primaryState": "WV"
+  }, 
+  "Charlotte": {
+    "allCities": [
+      "Charlotte", 
+      "Concord", 
+      "Gastonia"
+    ], 
+    "allStates": [
+      "NC", 
+      "SC"
+    ], 
+    "latitude": "-80.838208", 
+    "longName": "Charlotte-Concord-Gastonia, NC-SC Metropolitan Statistical Area", 
+    "longitude": "35.222117", 
+    "primaryState": "NC"
+  }, 
+  "Charlottesville": {
+    "allCities": [
+      "Charlottesville"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Charlottesville, VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Chattanooga": {
+    "allCities": [
+      "Chattanooga"
+    ], 
+    "allStates": [
+      "TN", 
+      "GA"
+    ], 
+    "latitude": "-85.307367", 
+    "longName": "Chattanooga, TN-GA Metropolitan Statistical Area", 
+    "longitude": "35.043699", 
+    "primaryState": "TN"
+  }, 
+  "Cheyenne": {
+    "allCities": [
+      "Cheyenne"
+    ], 
+    "allStates": [
+      "WY"
+    ], 
+    "latitude": "-104.822223", 
+    "longName": "Cheyenne, WY Metropolitan Statistical Area", 
+    "longitude": "41.135619", 
+    "primaryState": "WY"
+  }, 
+  "Chicago": {
+    "allCities": [
+      "Chicago", 
+      "Naperville", 
+      "Elgin"
+    ], 
+    "allStates": [
+      "IL", 
+      "IN", 
+      "WI"
+    ], 
+    "latitude": "-87.631996", 
+    "longName": "Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Statistical Area", 
+    "longitude": "41.883884", 
+    "primaryState": "IL"
+  }, 
+  "Chico": {
+    "allCities": [
+      "Chico"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Chico, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Cincinnati": {
+    "allCities": [
+      "Cincinnati"
+    ], 
+    "allStates": [
+      "OH", 
+      "KY", 
+      "IN"
+    ], 
+    "latitude": "-84.519548", 
+    "longName": "Cincinnati, OH-KY-IN Metropolitan Statistical Area", 
+    "longitude": "39.104136", 
+    "primaryState": "OH"
+  }, 
+  "Clarksville": {
+    "allCities": [
+      "Clarksville"
+    ], 
+    "allStates": [
+      "TN", 
+      "KY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Clarksville, TN-KY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TN"
+  }, 
+  "Cleveland": {
+    "allCities": [
+      "Cleveland"
+    ], 
+    "allStates": [
+      "TN"
+    ], 
+    "latitude": "-81.693548", 
+    "longName": "Cleveland, TN Metropolitan Statistical Area", 
+    "longitude": "41.505128", 
+    "primaryState": "TN"
+  }, 
+  "Coeur d'Alene": {
+    "allCities": [
+      "Coeur d'Alene"
+    ], 
+    "allStates": [
+      "ID"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Coeur d'Alene, ID Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ID"
+  }, 
+  "College Station": {
+    "allCities": [
+      "College Station", 
+      "Bryan"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "College Station-Bryan, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Colorado Springs": {
+    "allCities": [
+      "Colorado Springs"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "-104.760749", 
+    "longName": "Colorado Springs, CO Metropolitan Statistical Area", 
+    "longitude": "38.867255", 
+    "primaryState": "CO"
+  }, 
+  "Columbia": {
+    "allCities": [
+      "Columbia"
+    ], 
+    "allStates": [
+      "MO"
+    ], 
+    "latitude": "-81.035278", 
+    "longName": "Columbia, MO Metropolitan Statistical Area", 
+    "longitude": "34.000833", 
+    "primaryState": "MO"
+  }, 
+  "Columbus": {
+    "allCities": [
+      "Columbus"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "-82.999104", 
+    "longName": "Columbus, IN Metropolitan Statistical Area", 
+    "longitude": "39.961291", 
+    "primaryState": "IN"
+  }, 
+  "Corpus Christi": {
+    "allCities": [
+      "Corpus Christi"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Corpus Christi, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Corvallis": {
+    "allCities": [
+      "Corvallis"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Corvallis, OR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OR"
+  }, 
+  "Crestview": {
+    "allCities": [
+      "Crestview", 
+      "Fort Walton Beach", 
+      "Destin"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Crestview-Fort Walton Beach-Destin, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Cumberland": {
+    "allCities": [
+      "Cumberland"
+    ], 
+    "allStates": [
+      "MD", 
+      "WV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Cumberland, MD-WV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MD"
+  }, 
+  "Dallas": {
+    "allCities": [
+      "Dallas", 
+      "Fort Worth", 
+      "Arlington"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "-96.796667", 
+    "longName": "Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area", 
+    "longitude": "32.775833", 
+    "primaryState": "TX"
+  }, 
+  "Dalton": {
+    "allCities": [
+      "Dalton"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Dalton, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Danville": {
+    "allCities": [
+      "Danville"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Danville, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Daphne": {
+    "allCities": [
+      "Daphne", 
+      "Fairhope", 
+      "Foley"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Daphne-Fairhope-Foley, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Davenport": {
+    "allCities": [
+      "Davenport", 
+      "Moline", 
+      "Rock Island"
+    ], 
+    "allStates": [
+      "IA", 
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Dayton": {
+    "allCities": [
+      "Dayton"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "-84.194024", 
+    "longName": "Dayton, OH Metropolitan Statistical Area", 
+    "longitude": "39.759540", 
+    "primaryState": "OH"
+  }, 
+  "Decatur": {
+    "allCities": [
+      "Decatur"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Decatur, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Deltona": {
+    "allCities": [
+      "Deltona", 
+      "Daytona Beach", 
+      "Ormond Beach"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Denver": {
+    "allCities": [
+      "Denver", 
+      "Aurora", 
+      "Lakewood"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "-104.984812", 
+    "longName": "Denver-Aurora-Lakewood, CO Metropolitan Statistical Area", 
+    "longitude": "39.739241", 
+    "primaryState": "CO"
+  }, 
+  "Des Moines": {
+    "allCities": [
+      "Des Moines", 
+      "West Des Moines"
+    ], 
+    "allStates": [
+      "IA"
+    ], 
+    "latitude": "-93.616499", 
+    "longName": "Des Moines-West Des Moines, IA Metropolitan Statistical Area", 
+    "longitude": "41.588958", 
+    "primaryState": "IA"
+  }, 
+  "Detroit": {
+    "allCities": [
+      "Detroit", 
+      "Warren", 
+      "Dearborn"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "-83.046582", 
+    "longName": "Detroit-Warren-Dearborn, MI Metropolitan Statistical Area", 
+    "longitude": "42.331599", 
+    "primaryState": "MI"
+  }, 
+  "Dothan": {
+    "allCities": [
+      "Dothan"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Dothan, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Dover": {
+    "allCities": [
+      "Dover"
+    ], 
+    "allStates": [
+      "DE"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Dover, DE Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "DE"
+  }, 
+  "Dubuque": {
+    "allCities": [
+      "Dubuque"
+    ], 
+    "allStates": [
+      "IA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Dubuque, IA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Duluth": {
+    "allCities": [
+      "Duluth"
+    ], 
+    "allStates": [
+      "MN", 
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Duluth, MN-WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MN"
+  }, 
+  "Durham": {
+    "allCities": [
+      "Durham", 
+      "Chapel Hill"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Durham-Chapel Hill, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "East Stroudsburg": {
+    "allCities": [
+      "East Stroudsburg"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "East Stroudsburg, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Eau Claire": {
+    "allCities": [
+      "Eau Claire"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Eau Claire, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "El Centro": {
+    "allCities": [
+      "El Centro"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "El Centro, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "El Paso": {
+    "allCities": [
+      "El Paso"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "-106.491609", 
+    "longName": "El Paso, TX Metropolitan Statistical Area", 
+    "longitude": "31.757845", 
+    "primaryState": "TX"
+  }, 
+  "Elizabethtown": {
+    "allCities": [
+      "Elizabethtown", 
+      "Fort Knox"
+    ], 
+    "allStates": [
+      "KY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Elizabethtown-Fort Knox, KY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KY"
+  }, 
+  "Elkhart": {
+    "allCities": [
+      "Elkhart", 
+      "Goshen"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Elkhart-Goshen, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Elmira": {
+    "allCities": [
+      "Elmira"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Elmira, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Enid": {
+    "allCities": [
+      "Enid"
+    ], 
+    "allStates": [
+      "OK"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Enid, OK Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OK"
+  }, 
+  "Erie": {
+    "allCities": [
+      "Erie"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Erie, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Eugene": {
+    "allCities": [
+      "Eugene"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Eugene, OR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OR"
+  }, 
+  "Evansville": {
+    "allCities": [
+      "Evansville"
+    ], 
+    "allStates": [
+      "IN", 
+      "KY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Evansville, IN-KY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Fairbanks": {
+    "allCities": [
+      "Fairbanks"
+    ], 
+    "allStates": [
+      "AK"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Fairbanks, AK Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AK"
+  }, 
+  "Fargo": {
+    "allCities": [
+      "Fargo"
+    ], 
+    "allStates": [
+      "ND", 
+      "MN"
+    ], 
+    "latitude": "-96.783394", 
+    "longName": "Fargo, ND-MN Metropolitan Statistical Area", 
+    "longitude": "46.878210", 
+    "primaryState": "ND"
+  }, 
+  "Farmington": {
+    "allCities": [
+      "Farmington"
+    ], 
+    "allStates": [
+      "NM"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Farmington, NM Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NM"
+  }, 
+  "Fayetteville": {
+    "allCities": [
+      "Fayetteville"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Fayetteville, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "Flagstaff": {
+    "allCities": [
+      "Flagstaff"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Flagstaff, AZ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AZ"
+  }, 
+  "Flint": {
+    "allCities": [
+      "Flint"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Flint, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Florence": {
+    "allCities": [
+      "Florence", 
+      "Muscle Shoals"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Florence-Muscle Shoals, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Fond du Lac": {
+    "allCities": [
+      "Fond du Lac"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Fond du Lac, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Fort Collins": {
+    "allCities": [
+      "Fort Collins"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Fort Collins, CO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CO"
+  }, 
+  "Fort Smith": {
+    "allCities": [
+      "Fort Smith"
+    ], 
+    "allStates": [
+      "AR", 
+      "OK"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Fort Smith, AR-OK Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AR"
+  }, 
+  "Fort Wayne": {
+    "allCities": [
+      "Fort Wayne"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Fort Wayne, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Fresno": {
+    "allCities": [
+      "Fresno"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "-119.784457", 
+    "longName": "Fresno, CA Metropolitan Statistical Area", 
+    "longitude": "36.739628", 
+    "primaryState": "CA"
+  }, 
+  "Gadsden": {
+    "allCities": [
+      "Gadsden"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Gadsden, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Gainesville": {
+    "allCities": [
+      "Gainesville"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Gainesville, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Gettysburg": {
+    "allCities": [
+      "Gettysburg"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Gettysburg, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Glens Falls": {
+    "allCities": [
+      "Glens Falls"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Glens Falls, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Goldsboro": {
+    "allCities": [
+      "Goldsboro"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Goldsboro, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "Grand Forks": {
+    "allCities": [
+      "Grand Forks"
+    ], 
+    "allStates": [
+      "ND", 
+      "MN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Grand Forks, ND-MN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ND"
+  }, 
+  "Grand Island": {
+    "allCities": [
+      "Grand Island"
+    ], 
+    "allStates": [
+      "NE"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Grand Island, NE Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NE"
+  }, 
+  "Grand Junction": {
+    "allCities": [
+      "Grand Junction"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Grand Junction, CO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CO"
+  }, 
+  "Grand Rapids": {
+    "allCities": [
+      "Grand Rapids", 
+      "Wyoming"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "-85.671478", 
+    "longName": "Grand Rapids-Wyoming, MI Metropolitan Statistical Area", 
+    "longitude": "42.969308", 
+    "primaryState": "MI"
+  }, 
+  "Grants Pass": {
+    "allCities": [
+      "Grants Pass"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Grants Pass, OR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OR"
+  }, 
+  "Great Falls": {
+    "allCities": [
+      "Great Falls"
+    ], 
+    "allStates": [
+      "MT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Great Falls, MT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MT"
+  }, 
+  "Greeley": {
+    "allCities": [
+      "Greeley"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Greeley, CO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CO"
+  }, 
+  "Green Bay": {
+    "allCities": [
+      "Green Bay"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Green Bay, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Greensboro": {
+    "allCities": [
+      "Greensboro", 
+      "High Point"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "-79.792670", 
+    "longName": "Greensboro-High Point, NC Metropolitan Statistical Area", 
+    "longitude": "36.070946", 
+    "primaryState": "NC"
+  }, 
+  "Greenville": {
+    "allCities": [
+      "Greenville"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "-82.400500", 
+    "longName": "Greenville, NC Metropolitan Statistical Area", 
+    "longitude": "34.848335", 
+    "primaryState": "NC"
+  }, 
+  "Gulfport": {
+    "allCities": [
+      "Gulfport", 
+      "Biloxi", 
+      "Pascagoula"
+    ], 
+    "allStates": [
+      "MS"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Gulfport-Biloxi-Pascagoula, MS Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MS"
+  }, 
+  "Hagerstown": {
+    "allCities": [
+      "Hagerstown", 
+      "Martinsburg"
+    ], 
+    "allStates": [
+      "MD", 
+      "WV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MD"
+  }, 
+  "Hammond": {
+    "allCities": [
+      "Hammond"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hammond, LA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "LA"
+  }, 
+  "Hanford": {
+    "allCities": [
+      "Hanford", 
+      "Corcoran"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hanford-Corcoran, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Harrisburg": {
+    "allCities": [
+      "Harrisburg", 
+      "Carlisle"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "-76.883694", 
+    "longName": "Harrisburg-Carlisle, PA Metropolitan Statistical Area", 
+    "longitude": "40.264364", 
+    "primaryState": "PA"
+  }, 
+  "Harrisonburg": {
+    "allCities": [
+      "Harrisonburg"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Harrisonburg, VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Hartford": {
+    "allCities": [
+      "Hartford", 
+      "West Hartford", 
+      "East Hartford"
+    ], 
+    "allStates": [
+      "CT"
+    ], 
+    "latitude": "-72.674286", 
+    "longName": "Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area", 
+    "longitude": "41.762736", 
+    "primaryState": "CT"
+  }, 
+  "Hattiesburg": {
+    "allCities": [
+      "Hattiesburg"
+    ], 
+    "allStates": [
+      "MS"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hattiesburg, MS Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MS"
+  }, 
+  "Hickory": {
+    "allCities": [
+      "Hickory", 
+      "Lenoir", 
+      "Morganton"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "Hilton Head Island": {
+    "allCities": [
+      "Hilton Head Island", 
+      "Bluffton", 
+      "Beaufort"
+    ], 
+    "allStates": [
+      "SC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hilton Head Island-Bluffton-Beaufort, SC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "SC"
+  }, 
+  "Hinesville": {
+    "allCities": [
+      "Hinesville"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hinesville, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Homosassa Springs": {
+    "allCities": [
+      "Homosassa Springs"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Homosassa Springs, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Hot Springs": {
+    "allCities": [
+      "Hot Springs"
+    ], 
+    "allStates": [
+      "AR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Hot Springs, AR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AR"
+  }, 
+  "Houma": {
+    "allCities": [
+      "Houma", 
+      "Thibodaux"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Houma-Thibodaux, LA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "LA"
+  }, 
+  "Houston": {
+    "allCities": [
+      "Houston", 
+      "The Woodlands", 
+      "Sugar Land"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "-95.369389", 
+    "longName": "Houston-The Woodlands-Sugar Land, TX Metropolitan Statistical Area", 
+    "longitude": "29.760146", 
+    "primaryState": "TX"
+  }, 
+  "Huntington": {
+    "allCities": [
+      "Huntington", 
+      "Ashland"
+    ], 
+    "allStates": [
+      "WV", 
+      "KY", 
+      "OH"
+    ], 
+    "latitude": "-82.444908", 
+    "longName": "Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area", 
+    "longitude": "38.419462", 
+    "primaryState": "WV"
+  }, 
+  "Huntsville": {
+    "allCities": [
+      "Huntsville"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "-86.585", 
+    "longName": "Huntsville, AL Metropolitan Statistical Area", 
+    "longitude": "34.73", 
+    "primaryState": "AL"
+  }, 
+  "Idaho Falls": {
+    "allCities": [
+      "Idaho Falls"
+    ], 
+    "allStates": [
+      "ID"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Idaho Falls, ID Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ID"
+  }, 
+  "Indianapolis": {
+    "allCities": [
+      "Indianapolis", 
+      "Carmel", 
+      "Anderson"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "-86.153537", 
+    "longName": "Indianapolis-Carmel-Anderson, IN Metropolitan Statistical Area", 
+    "longitude": "39.768001", 
+    "primaryState": "IN"
+  }, 
+  "Iowa City": {
+    "allCities": [
+      "Iowa City"
+    ], 
+    "allStates": [
+      "IA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Iowa City, IA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Ithaca": {
+    "allCities": [
+      "Ithaca"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Ithaca, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Jackson": {
+    "allCities": [
+      "Jackson"
+    ], 
+    "allStates": [
+      "TN"
+    ], 
+    "latitude": "-90.182083", 
+    "longName": "Jackson, TN Metropolitan Statistical Area", 
+    "longitude": "32.303814", 
+    "primaryState": "TN"
+  }, 
+  "Jacksonville": {
+    "allCities": [
+      "Jacksonville"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "-81.658997", 
+    "longName": "Jacksonville, NC Metropolitan Statistical Area", 
+    "longitude": "30.330042", 
+    "primaryState": "NC"
+  }, 
+  "Janesville": {
+    "allCities": [
+      "Janesville", 
+      "Beloit"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Janesville-Beloit, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Jefferson City": {
+    "allCities": [
+      "Jefferson City"
+    ], 
+    "allStates": [
+      "MO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Jefferson City, MO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MO"
+  }, 
+  "Johnson City": {
+    "allCities": [
+      "Johnson City"
+    ], 
+    "allStates": [
+      "TN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Johnson City, TN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TN"
+  }, 
+  "Johnstown": {
+    "allCities": [
+      "Johnstown"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Johnstown, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Jonesboro": {
+    "allCities": [
+      "Jonesboro"
+    ], 
+    "allStates": [
+      "AR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Jonesboro, AR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AR"
+  }, 
+  "Joplin": {
+    "allCities": [
+      "Joplin"
+    ], 
+    "allStates": [
+      "MO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Joplin, MO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MO"
+  }, 
+  "Kahului": {
+    "allCities": [
+      "Kahului", 
+      "Wailuku", 
+      "Lahaina"
+    ], 
+    "allStates": [
+      "HI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kahului-Wailuku-Lahaina, HI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "HI"
+  }, 
+  "Kalamazoo": {
+    "allCities": [
+      "Kalamazoo", 
+      "Portage"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kalamazoo-Portage, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Kankakee": {
+    "allCities": [
+      "Kankakee"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kankakee, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Kansas City": {
+    "allCities": [
+      "Kansas City"
+    ], 
+    "allStates": [
+      "MO", 
+      "KS"
+    ], 
+    "latitude": "-94.577929", 
+    "longName": "Kansas City, MO-KS Metropolitan Statistical Area", 
+    "longitude": "39.100574", 
+    "primaryState": "MO"
+  }, 
+  "Kennewick": {
+    "allCities": [
+      "Kennewick", 
+      "Richland"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kennewick-Richland, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Killeen": {
+    "allCities": [
+      "Killeen", 
+      "Temple"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Killeen-Temple, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Kingsport": {
+    "allCities": [
+      "Kingsport", 
+      "Bristol", 
+      "Bristol"
+    ], 
+    "allStates": [
+      "TN", 
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TN"
+  }, 
+  "Kingston": {
+    "allCities": [
+      "Kingston"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kingston, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Knoxville": {
+    "allCities": [
+      "Knoxville"
+    ], 
+    "allStates": [
+      "TN"
+    ], 
+    "latitude": "-83.922328", 
+    "longName": "Knoxville, TN Metropolitan Statistical Area", 
+    "longitude": "35.961377", 
+    "primaryState": "TN"
+  }, 
+  "Kokomo": {
+    "allCities": [
+      "Kokomo"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Kokomo, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "La Crosse": {
+    "allCities": [
+      "La Crosse", 
+      "Onalaska"
+    ], 
+    "allStates": [
+      "WI", 
+      "MN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "La Crosse-Onalaska, WI-MN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Lafayette": {
+    "allCities": [
+      "Lafayette", 
+      "West Lafayette"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lafayette-West Lafayette, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Lake Charles": {
+    "allCities": [
+      "Lake Charles"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lake Charles, LA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "LA"
+  }, 
+  "Lake Havasu City": {
+    "allCities": [
+      "Lake Havasu City", 
+      "Kingman"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lake Havasu City-Kingman, AZ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AZ"
+  }, 
+  "Lakeland": {
+    "allCities": [
+      "Lakeland", 
+      "Winter Haven"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lakeland-Winter Haven, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Lancaster": {
+    "allCities": [
+      "Lancaster"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lancaster, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Lansing": {
+    "allCities": [
+      "Lansing", 
+      "East Lansing"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lansing-East Lansing, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Laredo": {
+    "allCities": [
+      "Laredo"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Laredo, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Las Cruces": {
+    "allCities": [
+      "Las Cruces"
+    ], 
+    "allStates": [
+      "NM"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Las Cruces, NM Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NM"
+  }, 
+  "Las Vegas": {
+    "allCities": [
+      "Las Vegas", 
+      "Henderson", 
+      "Paradise"
+    ], 
+    "allStates": [
+      "NV"
+    ], 
+    "latitude": "-115.136389", 
+    "longName": "Las Vegas-Henderson-Paradise, NV Metropolitan Statistical Area", 
+    "longitude": "36.175", 
+    "primaryState": "NV"
+  }, 
+  "Lawrence": {
+    "allCities": [
+      "Lawrence"
+    ], 
+    "allStates": [
+      "KS"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lawrence, KS Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KS"
+  }, 
+  "Lawton": {
+    "allCities": [
+      "Lawton"
+    ], 
+    "allStates": [
+      "OK"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lawton, OK Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OK"
+  }, 
+  "Lebanon": {
+    "allCities": [
+      "Lebanon"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lebanon, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Lewiston": {
+    "allCities": [
+      "Lewiston"
+    ], 
+    "allStates": [
+      "ID", 
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lewiston, ID-WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ID"
+  }, 
+  "Lexington": {
+    "allCities": [
+      "Lexington", 
+      "Fayette"
+    ], 
+    "allStates": [
+      "KY"
+    ], 
+    "latitude": "-84.501799", 
+    "longName": "Lexington-Fayette, KY Metropolitan Statistical Area", 
+    "longitude": "38.049362", 
+    "primaryState": "KY"
+  }, 
+  "Lima": {
+    "allCities": [
+      "Lima"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lima, OH Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OH"
+  }, 
+  "Lincoln": {
+    "allCities": [
+      "Lincoln"
+    ], 
+    "allStates": [
+      "NE"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lincoln, NE Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NE"
+  }, 
+  "Little Rock": {
+    "allCities": [
+      "Little Rock", 
+      "North Little Rock", 
+      "Conway"
+    ], 
+    "allStates": [
+      "AR"
+    ], 
+    "latitude": "-92.275452", 
+    "longName": "Little Rock-North Little Rock-Conway, AR Metropolitan Statistical Area", 
+    "longitude": "34.749106", 
+    "primaryState": "AR"
+  }, 
+  "Logan": {
+    "allCities": [
+      "Logan"
+    ], 
+    "allStates": [
+      "UT", 
+      "ID"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Logan, UT-ID Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "UT"
+  }, 
+  "Longview": {
+    "allCities": [
+      "Longview"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Longview, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Los Angeles": {
+    "allCities": [
+      "Los Angeles", 
+      "Long Beach", 
+      "Anaheim"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "-118.242772", 
+    "longName": "Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area", 
+    "longitude": "34.053678", 
+    "primaryState": "CA"
+  }, 
+  "Louisville/Jefferson County": {
+    "allCities": [
+      "Louisville/Jefferson County"
+    ], 
+    "allStates": [
+      "KY", 
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Louisville/Jefferson County, KY-IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KY"
+  }, 
+  "Lubbock": {
+    "allCities": [
+      "Lubbock"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lubbock, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Lynchburg": {
+    "allCities": [
+      "Lynchburg"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Lynchburg, VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Macon": {
+    "allCities": [
+      "Macon", 
+      "Bibb County"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Macon-Bibb County, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Madera": {
+    "allCities": [
+      "Madera"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Madera, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Madison": {
+    "allCities": [
+      "Madison"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "-89.384192", 
+    "longName": "Madison, WI Metropolitan Statistical Area", 
+    "longitude": "43.074701", 
+    "primaryState": "WI"
+  }, 
+  "Manchester": {
+    "allCities": [
+      "Manchester", 
+      "Nashua"
+    ], 
+    "allStates": [
+      "NH"
+    ], 
+    "latitude": "-71.463382", 
+    "longName": "Manchester-Nashua, NH Metropolitan Statistical Area", 
+    "longitude": "42.990790", 
+    "primaryState": "NH"
+  }, 
+  "Manhattan": {
+    "allCities": [
+      "Manhattan"
+    ], 
+    "allStates": [
+      "KS"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Manhattan, KS Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KS"
+  }, 
+  "Mankato": {
+    "allCities": [
+      "Mankato", 
+      "North Mankato"
+    ], 
+    "allStates": [
+      "MN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Mankato-North Mankato, MN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MN"
+  }, 
+  "Mansfield": {
+    "allCities": [
+      "Mansfield"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Mansfield, OH Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OH"
+  }, 
+  "McAllen": {
+    "allCities": [
+      "McAllen", 
+      "Edinburg", 
+      "Mission"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "-98.235030", 
+    "longName": "McAllen-Edinburg-Mission, TX Metropolitan Statistical Area", 
+    "longitude": "26.197125", 
+    "primaryState": "TX"
+  }, 
+  "Medford": {
+    "allCities": [
+      "Medford"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Medford, OR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OR"
+  }, 
+  "Memphis": {
+    "allCities": [
+      "Memphis"
+    ], 
+    "allStates": [
+      "TN", 
+      "MS", 
+      "AR"
+    ], 
+    "latitude": "-90.052067", 
+    "longName": "Memphis, TN-MS-AR Metropolitan Statistical Area", 
+    "longitude": "35.149061", 
+    "primaryState": "TN"
+  }, 
+  "Merced": {
+    "allCities": [
+      "Merced"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Merced, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Miami": {
+    "allCities": [
+      "Miami", 
+      "Fort Lauderdale", 
+      "West Palm Beach"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "-80.233748", 
+    "longName": "Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area", 
+    "longitude": "25.727735", 
+    "primaryState": "FL"
+  }, 
+  "Michigan City": {
+    "allCities": [
+      "Michigan City", 
+      "La Porte"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Michigan City-La Porte, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Midland": {
+    "allCities": [
+      "Midland"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Midland, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Milwaukee": {
+    "allCities": [
+      "Milwaukee", 
+      "Waukesha", 
+      "West Allis"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "-87.909708", 
+    "longName": "Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area", 
+    "longitude": "43.041685", 
+    "primaryState": "WI"
+  }, 
+  "Minneapolis": {
+    "allCities": [
+      "Minneapolis", 
+      "St. Paul", 
+      "Bloomington"
+    ], 
+    "allStates": [
+      "MN", 
+      "WI"
+    ], 
+    "latitude": "-93.265334", 
+    "longName": "Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area", 
+    "longitude": "44.977433", 
+    "primaryState": "MN"
+  }, 
+  "Missoula": {
+    "allCities": [
+      "Missoula"
+    ], 
+    "allStates": [
+      "MT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Missoula, MT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MT"
+  }, 
+  "Mobile": {
+    "allCities": [
+      "Mobile"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Mobile, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Modesto": {
+    "allCities": [
+      "Modesto"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "-121.000130", 
+    "longName": "Modesto, CA Metropolitan Statistical Area", 
+    "longitude": "37.640995", 
+    "primaryState": "CA"
+  }, 
+  "Monroe": {
+    "allCities": [
+      "Monroe"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Monroe, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Montgomery": {
+    "allCities": [
+      "Montgomery"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Montgomery, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Morgantown": {
+    "allCities": [
+      "Morgantown"
+    ], 
+    "allStates": [
+      "WV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Morgantown, WV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WV"
+  }, 
+  "Morristown": {
+    "allCities": [
+      "Morristown"
+    ], 
+    "allStates": [
+      "TN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Morristown, TN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TN"
+  }, 
+  "Mount Vernon": {
+    "allCities": [
+      "Mount Vernon", 
+      "Anacortes"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Mount Vernon-Anacortes, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Muncie": {
+    "allCities": [
+      "Muncie"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Muncie, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Muskegon": {
+    "allCities": [
+      "Muskegon"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Muskegon, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Myrtle Beach": {
+    "allCities": [
+      "Myrtle Beach", 
+      "Conway", 
+      "North Myrtle Beach"
+    ], 
+    "allStates": [
+      "SC", 
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "SC"
+  }, 
+  "Napa": {
+    "allCities": [
+      "Napa"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Napa, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Naples": {
+    "allCities": [
+      "Naples", 
+      "Immokalee", 
+      "Marco Island"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Naples-Immokalee-Marco Island, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Nashville": {
+    "allCities": [
+      "Nashville", 
+      "Davidson–Murfreesboro–Franklin"
+    ], 
+    "allStates": [
+      "TN"
+    ], 
+    "latitude": "-86.783333", 
+    "longName": "Nashville-Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area", 
+    "longitude": "36.166667", 
+    "primaryState": "TN"
+  }, 
+  "New Bern": {
+    "allCities": [
+      "New Bern"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "New Bern, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "New Haven": {
+    "allCities": [
+      "New Haven", 
+      "Milford"
+    ], 
+    "allStates": [
+      "CT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "New Haven-Milford, CT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CT"
+  }, 
+  "New Orleans": {
+    "allCities": [
+      "New Orleans", 
+      "Metairie"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "-90.076917", 
+    "longName": "New Orleans-Metairie, LA Metropolitan Statistical Area", 
+    "longitude": "29.952002", 
+    "primaryState": "LA"
+  }, 
+  "New York": {
+    "allCities": [
+      "New York", 
+      "Newark", 
+      "Jersey City"
+    ], 
+    "allStates": [
+      "NY", 
+      "NJ", 
+      "PA"
+    ], 
+    "latitude": "-74.0059", 
+    "longName": "New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area", 
+    "longitude": "40.7127", 
+    "primaryState": "NY"
+  }, 
+  "Niles": {
+    "allCities": [
+      "Niles", 
+      "Benton Harbor"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Niles-Benton Harbor, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "North Port": {
+    "allCities": [
+      "North Port", 
+      "Sarasota", 
+      "Bradenton"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "-82.206334", 
+    "longName": "North Port-Sarasota-Bradenton, FL Metropolitan Statistical Area", 
+    "longitude": "27.075745", 
+    "primaryState": "FL"
+  }, 
+  "Norwich": {
+    "allCities": [
+      "Norwich", 
+      "New London"
+    ], 
+    "allStates": [
+      "CT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Norwich-New London, CT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CT"
+  }, 
+  "Ocala": {
+    "allCities": [
+      "Ocala"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Ocala, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Ocean City": {
+    "allCities": [
+      "Ocean City"
+    ], 
+    "allStates": [
+      "NJ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Ocean City, NJ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NJ"
+  }, 
+  "Odessa": {
+    "allCities": [
+      "Odessa"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Odessa, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Ogden": {
+    "allCities": [
+      "Ogden", 
+      "Clearfield"
+    ], 
+    "allStates": [
+      "UT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Ogden-Clearfield, UT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "UT"
+  }, 
+  "Oklahoma City": {
+    "allCities": [
+      "Oklahoma City"
+    ], 
+    "allStates": [
+      "OK"
+    ], 
+    "latitude": "-97.521117", 
+    "longName": "Oklahoma City, OK Metropolitan Statistical Area", 
+    "longitude": "35.468892", 
+    "primaryState": "OK"
+  }, 
+  "Olympia": {
+    "allCities": [
+      "Olympia", 
+      "Tumwater"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Olympia-Tumwater, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Omaha": {
+    "allCities": [
+      "Omaha", 
+      "Council Bluffs"
+    ], 
+    "allStates": [
+      "NE", 
+      "IA"
+    ], 
+    "latitude": "-95.921667", 
+    "longName": "Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area", 
+    "longitude": "41.259722", 
+    "primaryState": "NE"
+  }, 
+  "Orlando": {
+    "allCities": [
+      "Orlando", 
+      "Kissimmee", 
+      "Sanford"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "-81.37896", 
+    "longName": "Orlando-Kissimmee-Sanford, FL Metropolitan Statistical Area", 
+    "longitude": "28.53843", 
+    "primaryState": "FL"
+  }, 
+  "Oshkosh": {
+    "allCities": [
+      "Oshkosh", 
+      "Neenah"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Oshkosh-Neenah, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Owensboro": {
+    "allCities": [
+      "Owensboro"
+    ], 
+    "allStates": [
+      "KY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Owensboro, KY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KY"
+  }, 
+  "Oxnard": {
+    "allCities": [
+      "Oxnard", 
+      "Thousand Oaks", 
+      "Ventura"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Palm Bay": {
+    "allCities": [
+      "Palm Bay", 
+      "Melbourne", 
+      "Titusville"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Panama City": {
+    "allCities": [
+      "Panama City"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Panama City, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Parkersburg": {
+    "allCities": [
+      "Parkersburg", 
+      "Vienna"
+    ], 
+    "allStates": [
+      "WV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Parkersburg-Vienna, WV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WV"
+  }, 
+  "Pensacola": {
+    "allCities": [
+      "Pensacola", 
+      "Ferry Pass", 
+      "Brent"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Peoria": {
+    "allCities": [
+      "Peoria"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Peoria, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Philadelphia": {
+    "allCities": [
+      "Philadelphia", 
+      "Camden", 
+      "Wilmington"
+    ], 
+    "allStates": [
+      "PA", 
+      "NJ", 
+      "DE", 
+      "MD"
+    ], 
+    "latitude": "-75.163567", 
+    "longName": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area", 
+    "longitude": "39.952376", 
+    "primaryState": "PA"
+  }, 
+  "Phoenix": {
+    "allCities": [
+      "Phoenix", 
+      "Mesa", 
+      "Scottsdale"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "-112.066667", 
+    "longName": "Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area", 
+    "longitude": "33.45", 
+    "primaryState": "AZ"
+  }, 
+  "Pine Bluff": {
+    "allCities": [
+      "Pine Bluff"
+    ], 
+    "allStates": [
+      "AR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Pine Bluff, AR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AR"
+  }, 
+  "Pittsburgh": {
+    "allCities": [
+      "Pittsburgh"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "-79.996912", 
+    "longName": "Pittsburgh, PA Metropolitan Statistical Area", 
+    "longitude": "40.438132", 
+    "primaryState": "PA"
+  }, 
+  "Pittsfield": {
+    "allCities": [
+      "Pittsfield"
+    ], 
+    "allStates": [
+      "MA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Pittsfield, MA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MA"
+  }, 
+  "Pocatello": {
+    "allCities": [
+      "Pocatello"
+    ], 
+    "allStates": [
+      "ID"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Pocatello, ID Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "ID"
+  }, 
+  "Port St. Lucie": {
+    "allCities": [
+      "Port St. Lucie"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Port St. Lucie, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Portland": {
+    "allCities": [
+      "Portland", 
+      "South Portland"
+    ], 
+    "allStates": [
+      "ME"
+    ], 
+    "latitude": "-70.257346", 
+    "longName": "Portland-South Portland, ME Metropolitan Statistical Area", 
+    "longitude": "43.659491", 
+    "primaryState": "ME"
+  }, 
+  "Prescott": {
+    "allCities": [
+      "Prescott"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Prescott, AZ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AZ"
+  }, 
+  "Providence": {
+    "allCities": [
+      "Providence", 
+      "Warwick"
+    ], 
+    "allStates": [
+      "RI", 
+      "MA"
+    ], 
+    "latitude": "-71.412897", 
+    "longName": "Providence-Warwick, RI-MA Metropolitan Statistical Area", 
+    "longitude": "41.824114", 
+    "primaryState": "RI"
+  }, 
+  "Provo": {
+    "allCities": [
+      "Provo", 
+      "Orem"
+    ], 
+    "allStates": [
+      "UT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Provo-Orem, UT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "UT"
+  }, 
+  "Pueblo": {
+    "allCities": [
+      "Pueblo"
+    ], 
+    "allStates": [
+      "CO"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Pueblo, CO Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CO"
+  }, 
+  "Punta Gorda": {
+    "allCities": [
+      "Punta Gorda"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Punta Gorda, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Racine": {
+    "allCities": [
+      "Racine"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Racine, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Raleigh": {
+    "allCities": [
+      "Raleigh"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "-78.638889", 
+    "longName": "Raleigh, NC Metropolitan Statistical Area", 
+    "longitude": "35.780556", 
+    "primaryState": "NC"
+  }, 
+  "Rapid City": {
+    "allCities": [
+      "Rapid City"
+    ], 
+    "allStates": [
+      "SD"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Rapid City, SD Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "SD"
+  }, 
+  "Reading": {
+    "allCities": [
+      "Reading"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Reading, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Redding": {
+    "allCities": [
+      "Redding"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Redding, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Reno": {
+    "allCities": [
+      "Reno"
+    ], 
+    "allStates": [
+      "NV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Reno, NV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NV"
+  }, 
+  "Richmond": {
+    "allCities": [
+      "Richmond"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "-77.433603", 
+    "longName": "Richmond, VA Metropolitan Statistical Area", 
+    "longitude": "37.538823", 
+    "primaryState": "VA"
+  }, 
+  "Riverside": {
+    "allCities": [
+      "Riverside", 
+      "San Bernardino", 
+      "Ontario"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Roanoke": {
+    "allCities": [
+      "Roanoke"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Roanoke, VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Rochester": {
+    "allCities": [
+      "Rochester"
+    ], 
+    "allStates": [
+      "MN"
+    ], 
+    "latitude": "-77.614882", 
+    "longName": "Rochester, MN Metropolitan Statistical Area", 
+    "longitude": "43.156965", 
+    "primaryState": "MN"
+  }, 
+  "Rockford": {
+    "allCities": [
+      "Rockford"
+    ], 
+    "allStates": [
+      "IL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Rockford, IL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IL"
+  }, 
+  "Rocky Mount": {
+    "allCities": [
+      "Rocky Mount"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Rocky Mount, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "Rome": {
+    "allCities": [
+      "Rome"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Rome, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Sacramento–Roseville–Arden": {
+    "allCities": [
+      "Sacramento–Roseville–Arden", 
+      "Arcade"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sacramento–Roseville–Arden-Arcade, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Saginaw": {
+    "allCities": [
+      "Saginaw"
+    ], 
+    "allStates": [
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Saginaw, MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MI"
+  }, 
+  "Salem": {
+    "allCities": [
+      "Salem"
+    ], 
+    "allStates": [
+      "OR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Salem, OR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "OR"
+  }, 
+  "Salinas": {
+    "allCities": [
+      "Salinas"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Salinas, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Salisbury": {
+    "allCities": [
+      "Salisbury"
+    ], 
+    "allStates": [
+      "MD", 
+      "DE"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Salisbury, MD-DE Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MD"
+  }, 
+  "Salt Lake City": {
+    "allCities": [
+      "Salt Lake City"
+    ], 
+    "allStates": [
+      "UT"
+    ], 
+    "latitude": "-111.891", 
+    "longName": "Salt Lake City, UT Metropolitan Statistical Area", 
+    "longitude": "40.7608", 
+    "primaryState": "UT"
+  }, 
+  "San Angelo": {
+    "allCities": [
+      "San Angelo"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "San Angelo, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "San Antonio": {
+    "allCities": [
+      "San Antonio", 
+      "New Braunfels"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "-98.495116", 
+    "longName": "San Antonio-New Braunfels, TX Metropolitan Statistical Area", 
+    "longitude": "29.424571", 
+    "primaryState": "TX"
+  }, 
+  "San Diego": {
+    "allCities": [
+      "San Diego", 
+      "Carlsbad"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "-117.162849", 
+    "longName": "San Diego-Carlsbad, CA Metropolitan Statistical Area", 
+    "longitude": "32.716936", 
+    "primaryState": "CA"
+  }, 
+  "San Francisco": {
+    "allCities": [
+      "San Francisco", 
+      "Oakland", 
+      "Hayward"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "-122.419243", 
+    "longName": "San Francisco-Oakland-Hayward, CA Metropolitan Statistical Area", 
+    "longitude": "37.779296", 
+    "primaryState": "CA"
+  }, 
+  "San Jose": {
+    "allCities": [
+      "San Jose", 
+      "Sunnyvale", 
+      "Santa Clara"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "San Luis Obispo": {
+    "allCities": [
+      "San Luis Obispo", 
+      "Paso Robles", 
+      "Arroyo Grande"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "San Luis Obispo-Paso Robles-Arroyo Grande, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Santa Cruz": {
+    "allCities": [
+      "Santa Cruz", 
+      "Watsonville"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Santa Cruz-Watsonville, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Santa Fe": {
+    "allCities": [
+      "Santa Fe"
+    ], 
+    "allStates": [
+      "NM"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Santa Fe, NM Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NM"
+  }, 
+  "Santa Maria": {
+    "allCities": [
+      "Santa Maria", 
+      "Santa Barbara"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Santa Maria-Santa Barbara, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Santa Rosa": {
+    "allCities": [
+      "Santa Rosa"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Santa Rosa, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Savannah": {
+    "allCities": [
+      "Savannah"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Savannah, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Scranton–Wilkes": {
+    "allCities": [
+      "Scranton–Wilkes", 
+      "Barre–Hazleton"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Scranton–Wilkes-Barre–Hazleton, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Seattle": {
+    "allCities": [
+      "Seattle", 
+      "Tacoma", 
+      "Bellevue"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "-122.329843", 
+    "longName": "Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area", 
+    "longitude": "47.603880", 
+    "primaryState": "WA"
+  }, 
+  "Sebastian": {
+    "allCities": [
+      "Sebastian", 
+      "Vero Beach"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sebastian-Vero Beach, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Sebring": {
+    "allCities": [
+      "Sebring"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sebring, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Sheboygan": {
+    "allCities": [
+      "Sheboygan"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sheboygan, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Sherman": {
+    "allCities": [
+      "Sherman", 
+      "Denison"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sherman-Denison, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Shreveport": {
+    "allCities": [
+      "Shreveport", 
+      "Bossier City"
+    ], 
+    "allStates": [
+      "LA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Shreveport-Bossier City, LA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "LA"
+  }, 
+  "Sierra Vista": {
+    "allCities": [
+      "Sierra Vista", 
+      "Douglas"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sierra Vista-Douglas, AZ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AZ"
+  }, 
+  "Sioux City": {
+    "allCities": [
+      "Sioux City"
+    ], 
+    "allStates": [
+      "IA", 
+      "NE", 
+      "SD"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sioux City, IA-NE-SD Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Sioux Falls": {
+    "allCities": [
+      "Sioux Falls"
+    ], 
+    "allStates": [
+      "SD"
+    ], 
+    "latitude": "-96.729333", 
+    "longName": "Sioux Falls, SD Metropolitan Statistical Area", 
+    "longitude": "43.547607", 
+    "primaryState": "SD"
+  }, 
+  "South Bend": {
+    "allCities": [
+      "South Bend", 
+      "Mishawaka"
+    ], 
+    "allStates": [
+      "IN", 
+      "MI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "South Bend-Mishawaka, IN-MI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Spartanburg": {
+    "allCities": [
+      "Spartanburg"
+    ], 
+    "allStates": [
+      "SC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Spartanburg, SC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "SC"
+  }, 
+  "Spokane": {
+    "allCities": [
+      "Spokane", 
+      "Spokane Valley"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "-117.423782", 
+    "longName": "Spokane-Spokane Valley, WA Metropolitan Statistical Area", 
+    "longitude": "47.660435", 
+    "primaryState": "WA"
+  }, 
+  "Springfield": {
+    "allCities": [
+      "Springfield"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "-72.589884", 
+    "longName": "Springfield, OH Metropolitan Statistical Area", 
+    "longitude": "42.101328", 
+    "primaryState": "OH"
+  }, 
+  "St. Cloud": {
+    "allCities": [
+      "St. Cloud"
+    ], 
+    "allStates": [
+      "MN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "St. Cloud, MN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MN"
+  }, 
+  "St. George": {
+    "allCities": [
+      "St. George"
+    ], 
+    "allStates": [
+      "UT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "St. George, UT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "UT"
+  }, 
+  "St. Joseph": {
+    "allCities": [
+      "St. Joseph"
+    ], 
+    "allStates": [
+      "MO", 
+      "KS"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "St. Joseph, MO-KS Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MO"
+  }, 
+  "St. Louis": {
+    "allCities": [
+      "St. Louis"
+    ], 
+    "allStates": [
+      "MO", 
+      "IL"
+    ], 
+    "latitude": "-90.197778", 
+    "longName": "St. Louis, MO-IL Metropolitan Statistical Area", 
+    "longitude": "38.627222", 
+    "primaryState": "MO"
+  }, 
+  "State College": {
+    "allCities": [
+      "State College"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "State College, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Staunton": {
+    "allCities": [
+      "Staunton", 
+      "Waynesboro"
+    ], 
+    "allStates": [
+      "VA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Staunton-Waynesboro, VA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Stockton": {
+    "allCities": [
+      "Stockton", 
+      "Lodi"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Stockton-Lodi, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Sumter": {
+    "allCities": [
+      "Sumter"
+    ], 
+    "allStates": [
+      "SC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Sumter, SC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "SC"
+  }, 
+  "Syracuse": {
+    "allCities": [
+      "Syracuse"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "-76.144444", 
+    "longName": "Syracuse, NY Metropolitan Statistical Area", 
+    "longitude": "43.046944", 
+    "primaryState": "NY"
+  }, 
+  "Tallahassee": {
+    "allCities": [
+      "Tallahassee"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Tallahassee, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Tampa": {
+    "allCities": [
+      "Tampa", 
+      "St. Petersburg", 
+      "Clearwater"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "-82.465", 
+    "longName": "Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area", 
+    "longitude": "27.971", 
+    "primaryState": "FL"
+  }, 
+  "Terre Haute": {
+    "allCities": [
+      "Terre Haute"
+    ], 
+    "allStates": [
+      "IN"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Terre Haute, IN Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IN"
+  }, 
+  "Texarkana": {
+    "allCities": [
+      "Texarkana"
+    ], 
+    "allStates": [
+      "TX", 
+      "AR"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Texarkana, TX-AR Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "The Villages": {
+    "allCities": [
+      "The Villages"
+    ], 
+    "allStates": [
+      "FL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "The Villages, FL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "FL"
+  }, 
+  "Toledo": {
+    "allCities": [
+      "Toledo"
+    ], 
+    "allStates": [
+      "OH"
+    ], 
+    "latitude": "-83.575278", 
+    "longName": "Toledo, OH Metropolitan Statistical Area", 
+    "longitude": "41.665556", 
+    "primaryState": "OH"
+  }, 
+  "Topeka": {
+    "allCities": [
+      "Topeka"
+    ], 
+    "allStates": [
+      "KS"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Topeka, KS Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "KS"
+  }, 
+  "Trenton": {
+    "allCities": [
+      "Trenton"
+    ], 
+    "allStates": [
+      "NJ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Trenton, NJ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NJ"
+  }, 
+  "Tucson": {
+    "allCities": [
+      "Tucson"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "-110.974746", 
+    "longName": "Tucson, AZ Metropolitan Statistical Area", 
+    "longitude": "32.222594", 
+    "primaryState": "AZ"
+  }, 
+  "Tulsa": {
+    "allCities": [
+      "Tulsa"
+    ], 
+    "allStates": [
+      "OK"
+    ], 
+    "latitude": "-95.989871", 
+    "longName": "Tulsa, OK Metropolitan Statistical Area", 
+    "longitude": "36.155425", 
+    "primaryState": "OK"
+  }, 
+  "Tuscaloosa": {
+    "allCities": [
+      "Tuscaloosa"
+    ], 
+    "allStates": [
+      "AL"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Tuscaloosa, AL Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AL"
+  }, 
+  "Tyler": {
+    "allCities": [
+      "Tyler"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Tyler, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Urban Honolulu": {
+    "allCities": [
+      "Urban Honolulu"
+    ], 
+    "allStates": [
+      "HI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Urban Honolulu, HI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "HI"
+  }, 
+  "Utica": {
+    "allCities": [
+      "Utica", 
+      "Rome"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Utica-Rome, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Valdosta": {
+    "allCities": [
+      "Valdosta"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Valdosta, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Vallejo": {
+    "allCities": [
+      "Vallejo", 
+      "Fairfield"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Vallejo-Fairfield, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Victoria": {
+    "allCities": [
+      "Victoria"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Victoria, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Vineland": {
+    "allCities": [
+      "Vineland", 
+      "Bridgeton"
+    ], 
+    "allStates": [
+      "NJ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Vineland-Bridgeton, NJ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NJ"
+  }, 
+  "Virginia Beach": {
+    "allCities": [
+      "Virginia Beach", 
+      "Norfolk", 
+      "Newport News"
+    ], 
+    "allStates": [
+      "VA", 
+      "NC"
+    ], 
+    "latitude": "-75.985112", 
+    "longName": "Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area", 
+    "longitude": "36.847986", 
+    "primaryState": "VA"
+  }, 
+  "Visalia": {
+    "allCities": [
+      "Visalia", 
+      "Porterville"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Visalia-Porterville, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Waco": {
+    "allCities": [
+      "Waco"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Waco, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Walla Walla": {
+    "allCities": [
+      "Walla Walla"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Walla Walla, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Warner Robins": {
+    "allCities": [
+      "Warner Robins"
+    ], 
+    "allStates": [
+      "GA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Warner Robins, GA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "GA"
+  }, 
+  "Washington": {
+    "allCities": [
+      "Washington", 
+      "Arlington", 
+      "Alexandria"
+    ], 
+    "allStates": [
+      "DC", 
+      "VA", 
+      "MD", 
+      "WV"
+    ], 
+    "latitude": "-77.009095", 
+    "longName": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area", 
+    "longitude": "38.889827", 
+    "primaryState": "DC"
+  }, 
+  "Waterloo": {
+    "allCities": [
+      "Waterloo", 
+      "Cedar Falls"
+    ], 
+    "allStates": [
+      "IA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Waterloo-Cedar Falls, IA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "IA"
+  }, 
+  "Watertown": {
+    "allCities": [
+      "Watertown", 
+      "Fort Drum"
+    ], 
+    "allStates": [
+      "NY"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Watertown-Fort Drum, NY Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NY"
+  }, 
+  "Wausau": {
+    "allCities": [
+      "Wausau"
+    ], 
+    "allStates": [
+      "WI"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Wausau, WI Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WI"
+  }, 
+  "Weirton": {
+    "allCities": [
+      "Weirton", 
+      "Steubenville"
+    ], 
+    "allStates": [
+      "WV", 
+      "OH"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Weirton-Steubenville, WV-OH Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WV"
+  }, 
+  "Wenatchee": {
+    "allCities": [
+      "Wenatchee"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Wenatchee, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "Wheeling": {
+    "allCities": [
+      "Wheeling"
+    ], 
+    "allStates": [
+      "WV", 
+      "OH"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Wheeling, WV-OH Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WV"
+  }, 
+  "Wichita": {
+    "allCities": [
+      "Wichita"
+    ], 
+    "allStates": [
+      "KS"
+    ], 
+    "latitude": "-97.340008", 
+    "longName": "Wichita, KS Metropolitan Statistical Area", 
+    "longitude": "37.692815", 
+    "primaryState": "KS"
+  }, 
+  "Wichita Falls": {
+    "allCities": [
+      "Wichita Falls"
+    ], 
+    "allStates": [
+      "TX"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Wichita Falls, TX Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "TX"
+  }, 
+  "Williamsport": {
+    "allCities": [
+      "Williamsport"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Williamsport, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Wilmington": {
+    "allCities": [
+      "Wilmington"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "-75.547095", 
+    "longName": "Wilmington, NC Metropolitan Statistical Area", 
+    "longitude": "39.743007", 
+    "primaryState": "NC"
+  }, 
+  "Winchester": {
+    "allCities": [
+      "Winchester"
+    ], 
+    "allStates": [
+      "VA", 
+      "WV"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Winchester, VA-WV Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "VA"
+  }, 
+  "Winston": {
+    "allCities": [
+      "Winston", 
+      "Salem"
+    ], 
+    "allStates": [
+      "NC"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Winston-Salem, NC Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "NC"
+  }, 
+  "Worcester": {
+    "allCities": [
+      "Worcester"
+    ], 
+    "allStates": [
+      "MA", 
+      "CT"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Worcester, MA-CT Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "MA"
+  }, 
+  "Yakima": {
+    "allCities": [
+      "Yakima"
+    ], 
+    "allStates": [
+      "WA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Yakima, WA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "WA"
+  }, 
+  "York": {
+    "allCities": [
+      "York", 
+      "Hanover"
+    ], 
+    "allStates": [
+      "PA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "York-Hanover, PA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "PA"
+  }, 
+  "Youngstown": {
+    "allCities": [
+      "Youngstown", 
+      "Warren", 
+      "Boardman"
+    ], 
+    "allStates": [
+      "OH", 
+      "PA"
+    ], 
+    "latitude": "-80.651400", 
+    "longName": "Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area", 
+    "longitude": "41.099961", 
+    "primaryState": "OH"
+  }, 
+  "Yuba City": {
+    "allCities": [
+      "Yuba City"
+    ], 
+    "allStates": [
+      "CA"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Yuba City, CA Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "CA"
+  }, 
+  "Yuma": {
+    "allCities": [
+      "Yuma"
+    ], 
+    "allStates": [
+      "AZ"
+    ], 
+    "latitude": "30.1588129", 
+    "longName": "Yuma, AZ Metropolitan Statistical Area", 
+    "longitude": "-85.6602058", 
+    "primaryState": "AZ"
+  }
+}
